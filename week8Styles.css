@@ -1,0 +1,66 @@
+h1 {
+    background-color: burlywood;
+    text-align: left;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 5px;
+}
+h3 {
+    background-color: burlywood;
+    text-align: left;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 3px;
+}
+body {
+    background-color: rgba(56, 141, 56, 0.808);
+    padding: 4%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 7px;
+    border-width: 8px;
+    text-align: left;
+}
+ol{
+    background-color: burlywood;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 3px;
+}
+img{
+    float: center;
+    height: 500px;
+    width: 900px;
+}
+table{
+    border-collapse:collapse;
+    width: 35%;
+}
+form{
+    background-color: burlywood;   
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 3px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;   
+}
+
+tr:nth-child(odd){
+    background-color: blanchedalmond;
+}
+
+tr:nth-child(even){
+    background-color: tan;
+}
+
+tr:hover {
+    background-color: mintcream;
+}
